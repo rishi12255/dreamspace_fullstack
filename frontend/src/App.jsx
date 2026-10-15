@@ -88,7 +88,7 @@ function App() {
       <header className="relative z-10 mx-auto flex max-w-7xl items-center justify-between px-5 py-6 sm:px-8">
         <a href="#" className="flex items-center gap-3" aria-label="DreamSpace home">
           <span className="grid h-10 w-10 place-items-center rounded-2xl bg-violet-400 text-slate-950 shadow-glow"><Sparkles size={21} /></span>
-          <span className="font-['Manrope'] text-xl font-extrabold tracking-tight">dreamspace<span className="text-violet-300">.</span></span>
+          <span className="font-['Manrope'] text-xl font-extrabold tracking-tight">YourThoughts<span className="text-violet-300">.</span></span>
         </a>
         <a href="#write" className="rounded-full border border-white/15 px-4 py-2.5 text-sm font-semibold transition hover:border-violet-300/60 hover:bg-white/5">Share your dream <ArrowRight className="ml-1 inline" size={15} /></a>
       </header>
